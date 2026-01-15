@@ -1,11 +1,11 @@
-# Sago Smart Follow-Up Agent 🕵️‍♂️
+# Sago Smart Follow-Up Agent 
 
-## 📖 Overview
-This repository contains a prototype for the **Sago Smart Follow-Up Agent**, designed to automate the re-engagement process for private market investors.
+## Overview
+This repository contains a prototype for the Sago Smart Follow-Up Agent, designed to automate the re-engagement process for private market investors.
 
 It addresses a common workflow gap: investors often meet founders who are "too early," want to follow up later, but miss the timing. This agent actively monitors startup signals and drafts personalized outreach emails when meaningful milestones (e.g., Series A, Product Launch) occur.
 
-## 🏗 Design Principles
+## Design Principles
 This project strictly adheres to Sago's core design philosophy:
 1. **Seamless Integration:** Works via existing email workflows. The investor simply BCCs `track@sago-agent.com` on their rejection email to trigger monitoring.
 2. **Hyper-Personalization:** Outreach is tailored to the specific reason the investor originally passed (e.g., revenue traction vs. product readiness).
@@ -25,5 +25,5 @@ This project strictly adheres to Sago's core design philosophy:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/sago-agent.git](https://github.com/your-username/sago-agent.git)
+   git clone [https://github.com/lgolla7/Sago-Project](https://github.com/lgolla7/Sago-Project)
    cd sago-agent
