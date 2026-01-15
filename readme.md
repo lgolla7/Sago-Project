@@ -25,5 +25,5 @@ This project strictly adheres to Sago's core design philosophy:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/lgolla7/Sago-Project](https://github.com/lgolla7/Sago-Project)
+   git clone [https://github.com/lgolla7/Sago-Project]
    
