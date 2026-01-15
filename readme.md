@@ -15,7 +15,7 @@ This project strictly adheres to Sago's core design philosophy:
 - **Email Parsing:** Extracts company name, founder details, and "pass reasons" from rejection emails.
 - **Signal Monitoring:** (Simulated) Scans external sources for funding rounds and product launches.
 - **Relevance Filtering:** Intelligently decides if a news event addresses the investor's specific concerns.
-- **Draft Generation:** Writes warm, context-aware re-engagement emails.
+- **Draft Generation:** Writes , context-aware re-engagement emails.
 
 ## Setup & Installation
 
