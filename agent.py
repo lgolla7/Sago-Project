@@ -22,9 +22,9 @@ class FollowUpAgent:
         
         
         extracted_data = {
-            "company": "TechNova",
-            "founder": "Sarah Chen",
-            "founder_email": "sarah@technova.ai",
+            "company": "techboom",
+            "founder": "Lakshman Golla",
+            "founder_email": "lakshman@techboom.ai",
             "pass_reason": "Pre-revenue, product still in beta",
             "target_signals": ["Series A", "Official Launch", "Revenue Milestone"],
             "last_contact_date": "2023-11-15"
@@ -45,8 +45,8 @@ class FollowUpAgent:
         
        
         simulated_news = [
-            "TechNova announces $12M Series A led by Sequoia",
-            "TechNova releases public API v1.0"
+            "Techboom announces $12M Series A led by Sequoia",
+            "Techboom releases public API v1.0"
         ]
        
         
@@ -117,10 +117,10 @@ if __name__ == "__main__":
     
    
     sample_email = """
-    To: sarah@technova.ai
+    To: lakshman@techboom.ai
     From: me@sago.vc
     Subject: Re: Seed Round
-    Hi Sarah, thanks for the chat. We are passing for now because it is too early. 
+    Hi Lakshman, thanks for the chat. We are passing for now because it is too early. 
     Let's reconnect when you hit $1M ARR or raise your Series A.
     """
     agent.add_to_watchlist(sample_email)
